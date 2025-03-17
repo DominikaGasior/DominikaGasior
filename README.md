@@ -13,8 +13,7 @@ Jestem aspirującą Analityczką Danych i studentką 3. roku Informatyki i Ekono
 - Dashboardy i wizualizacje w Power BI / Excel
 
 ### 🗂 Przykładowe repozytoria
-- [Lorem Ipsum](#) – Lorem ipsum
-
+- [📊 Analiza danych sprzedażowych za 1 kwartał – Dashboard w Excel](https://github.com/DominikaGasior/analiza_danych_sprzedazowych_1_kwartal) – W tym projekcie przygotowałam interaktywny dashboard sprzedażowy w Excelu, aby w szybki i czytelny sposób monitorować kluczowe wskaźniki sprzedaży w pierwszym kwartale dla fikcyjnych danych.
 ### 🚀 Cel
 Chcę rozwinąć się jako Analityczka Danych, zdobywając pierwsze doświadczenie zawodowe. Jestem otwarta na propozycje stażu, praktyk lub współpracy.
 
