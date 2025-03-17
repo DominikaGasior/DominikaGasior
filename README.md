@@ -11,6 +11,7 @@ Jestem aspirującą Analityczką Danych i studentką 3. roku Informatyki i Ekono
 ### 📂 Co znajdziesz na moim GitHubie?
 - Projekty analizy danych oparte na fikcyjnych zestawach danych
 - Dashboardy i wizualizacje w Power BI / Excel
+- Projekty usprawniające pracę
 
 ### 🗂 Moje projekty
 - [📊 Analiza danych sprzedażowych za 1 kwartał – Dashboard w Excel](https://github.com/DominikaGasior/analiza_danych_sprzedazowych_1_kwartal) – W tym projekcie przygotowałam interaktywny dashboard sprzedażowy w Excelu, aby w szybki i czytelny sposób monitorować kluczowe wskaźniki sprzedaży w pierwszym kwartale dla fikcyjnych danych.
