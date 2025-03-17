@@ -1,7 +1,7 @@
-# 👋 Cześć! Jestem Dominika Gąsior
+# 👋 Cześć! Nazwyam się Dominika Gąsior
 
 ### 🎯 O mnie
-Jestem aspirującą Analityczką Danych i studentką 3. roku Informatyki i Ekonometrii na Uniwersytecie Ekonomicznym w Poznaniu. Uwielbiam odkrywać w danych wartościowe informacje i nieustannie doskonalę swoje umiejętności w eksploracji, wizualizacji i modelowaniu danych. W wolnych chwilach tworzę **latte art** ☕ i delektuję się dobrą kawą.
+Jestem aspirującą Analityczką Danych i studentką 3. roku Informatyki i Ekonometrii na Uniwersytecie Ekonomicznym w Poznaniu. Uwielbiam odkrywać w danych wartościowe informacje i nieustannie doskonalę swoje umiejętności w eksploracji, wizualizacji i modelowaniu danych. W wolnych chwilach tworzę **latte art'y** ☕ i szydełkując delektuję się dobrą kawą.
 
 ### 🛠 Technologie, których używam
 - **SQL** (m.in. PostgreSQL)
