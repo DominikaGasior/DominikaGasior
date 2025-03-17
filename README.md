@@ -14,6 +14,8 @@ Jestem aspirującą Analityczką Danych i studentką 3. roku Informatyki i Ekono
 
 ### 🗂 Przykładowe repozytoria
 - [📊 Analiza danych sprzedażowych za 1 kwartał – Dashboard w Excel](https://github.com/DominikaGasior/analiza_danych_sprzedazowych_1_kwartal) – W tym projekcie przygotowałam interaktywny dashboard sprzedażowy w Excelu, aby w szybki i czytelny sposób monitorować kluczowe wskaźniki sprzedaży w pierwszym kwartale dla fikcyjnych danych.
+- [🕒 Automatyzacja zliczania godzin pracy – System w Arkuszach Google](https://github.com/DominikaGasior/automatyzacja_zliczania_godzin_pracy) - Projekt usprawnia zbieranie i zliczanie godzin pracy z uwzględnieniem różnych stanowisk. Arkusz automatycznie podsumowuje miesięczne godziny, chroni formuły przed edycją i weryfikuje poprawność wprowadzanych danych.
+
 ### 🚀 Cel
 Chcę rozwinąć się jako Analityczka Danych, zdobywając pierwsze doświadczenie zawodowe. Jestem otwarta na propozycje stażu, praktyk lub współpracy.
 
