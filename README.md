@@ -16,7 +16,7 @@ Jestem aspirującą Analityczką Danych i studentką 3. roku Informatyki i Ekono
 ### 🗂 Moje projekty
 - [📊 Analiza danych sprzedażowych za 1 kwartał – Dashboard w Excel](https://github.com/DominikaGasior/analiza_danych_sprzedazowych_1_kwartal) – W tym projekcie przygotowałam interaktywny dashboard sprzedażowy w Excelu, aby w szybki i czytelny sposób monitorować kluczowe wskaźniki sprzedaży w pierwszym kwartale dla fikcyjnych danych.
 - [🕒 Automatyzacja zliczania godzin pracy – System w Arkuszach Google](https://github.com/DominikaGasior/automatyzacja_zliczania_godzin_pracy) - Projekt usprawnia zbieranie i zliczanie godzin pracy z uwzględnieniem różnych stanowisk. Arkusz automatycznie podsumowuje miesięczne godziny, chroni formuły przed edycją i weryfikuje poprawność wprowadzanych danych.
-- [📈 Dashboard Sprzedaży Kawiarni](https://github.com/DominikaGasior/analiza_sprzedazy_kawiarni) - Dostarczenie interaktywnego, szybkiego i przejrzystego podglądu sprzedaży w kawiarni, wspierając podejmowanie lepszych decyzji biznesowych.
+- [📈 Dashboard Sprzedaży Kawiarni – Dashboard w PowerBI](https://github.com/DominikaGasior/analiza_sprzedazy_kawiarni) - Dostarczenie interaktywnego, szybkiego i przejrzystego podglądu sprzedaży w kawiarni, wspierając podejmowanie lepszych decyzji biznesowych.
 
 ### 🎓 Lista ukończonych kursów
 - **🛠 Power BI & Power Query**
